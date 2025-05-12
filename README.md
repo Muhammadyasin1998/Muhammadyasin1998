@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Node.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3++Years+of+Flutter+Experience;Node.js+Backend+Developer;AWS+Learner;Mobile+App+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3"+"+Years+of+Flutter+Experience;Node.js+Backend+Developer;AWS+Learner;Mobile+App+Specialist" alt="Typing SVG" />
 </p>
 
 
@@ -31,7 +31,7 @@
 
 #### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
