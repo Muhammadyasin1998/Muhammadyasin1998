@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yasin</h1>
-<h3 align="center">Flutter Developer | Node.js | AWS Enthusiast</h3>
+<h3 align="center">Flutter Developer | Node.js Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3+Years+of+Flutter+Experience;Node.js+Backend+Developer;AWS+Learner;Mobile+App+Specialist" alt="Typing SVG" />
