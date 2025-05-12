@@ -2,14 +2,14 @@
 <h3 align="center">Flutter Developer | Node.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3+Years+of+Flutter+Experience;Node.js+Backend+Developer;AWS+Learner;Mobile+App+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3++Years+of+Flutter+Experience;Node.js+Backend+Developer;AWS+Learner;Mobile+App+Specialist" alt="Typing SVG" />
 </p>
 
 
 
 ### 🚀 About Me
 
-- 💼 Professional Flutter developer with **3 years** of experience
+- 💼 Professional Flutter developer with **3+ years** of experience
 - 🌱 Currently mastering **AWS** and advanced backend development
 - 🛠 Building robust mobile apps with **Flutter + Node.js** backend
 - 📫 Reach me at **yasin.ptcp@gmail.com**
