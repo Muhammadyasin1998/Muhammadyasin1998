@@ -2,16 +2,14 @@
 <h3 align="center">Flutter Developer | Node.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3+Years+of+Flutter+Experience;Node.js+Backend+Developer;AWS+Learner;Mobile+App+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=3+Years+of+Flutter+Experience;Node.js+Backend+Developer;Native+Android+with+Kotlin;Mobile+App+Specialist" alt="Typing SVG" />
 </p>
-
-
 
 ### 🚀 About Me
 
-- 💼 Professional Flutter developer with **3+ years** of experience
-- 🌱 Currently mastering **AWS** and advanced backend development
-- 🛠 Building robust mobile apps with **Flutter + Node.js** backend
+- 💼 Professional Flutter developer with **3+ years** of experience  
+- 🌱 Currently enhancing skills in **Kotlin & Jetpack Compose**  
+- 🛠 Building robust mobile apps with **Flutter, Native Android & Node.js** backend  
 - 📫 Reach me at **yasin.ptcp@gmail.com**
 
 ---
@@ -21,6 +19,8 @@
 #### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Backend Development
@@ -28,10 +28,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +39,6 @@
 ### 📈 GitHub Stats
 
 <div align="start">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyasin1998&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
