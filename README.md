@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 💼 Professional Flutter developer with **3+ years** of experience  
+- 💼 Professional Flutter developer with **4+ years** of experience  
 - 🌱 Currently enhancing skills in **Kotlin & Jetpack Compose**  
 - 🛠 Building robust mobile apps with **Flutter, Native Android & Node.js** backend  
 - 📫 Reach me at **yasin.ptcp@gmail.com**
