@@ -1,9 +1,10 @@
 # Hi 👋, I'm Muhammad Yasin
 
-<h3 align="center">Senior Mobile Engineer | Flutter & .NET Developer</h3>
+<h2 align="center">Senior Software Engineer</h2>
+<h3 align="center">Flutter & .NET | Full-Stack Development | AI & LLM Integration</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Senior+Mobile+Engineer;5%2B+Years+of+Flutter+Experience;Cross-Platform+App+Architect;Full-Stack+.NET+Developer;Clean+Architecture+%26+Scalable+Systems;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&lines=5%2B+Years+of+Software+Engineering+Experience;Senior+Flutter+%26+Mobile+Application+Engineer;Cross-Platform+Mobile+Development;Full-Stack+Development+with+.NET+%26+Node.js;AI+Engineering+%7C+LLMs+%7C+RAG+%7C+MCP;Clean+Architecture+%26+Scalable+Systems;Cloud+Infrastructure+%26+DevOps" alt="Professional Typing SVG" />
 </p>
 
 ---
