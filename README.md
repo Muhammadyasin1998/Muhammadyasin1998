@@ -10,11 +10,17 @@
 
 ## 🚀 Professional Summary
 
-Senior Mobile Engineer with **5+ years of experience** architecting and developing high-performance cross-platform applications using Flutter and Dart, complemented by **1+ year of full-stack engineering experience** with .NET Core and ASP.NET Core APIs.
+Senior Software Engineer with **5+ years of experience** architecting and developing high-performance cross-platform mobile applications using Flutter and Dart, complemented by **1+ year of full-stack engineering experience** with C#, .NET Core, and ASP.NET Core APIs.
 
 Proven track record of delivering enterprise-grade applications serving **30,000+ active users** across logistics, social, fintech, and retail industries.
 
-Experienced in Clean Architecture, SOLID principles, scalable application design, state management, backend integration, performance optimization, and CI/CD automation. Passionate about building maintainable, secure, and high-quality software solutions.
+Experienced in **Clean Architecture, SOLID principles, scalable application design, state management (BLoC, Riverpod), backend engineering, RESTful APIs, real-time communication, and performance optimization**.
+
+Expanding software engineering capabilities into **AI-powered application development**, with hands-on experience exploring and integrating Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), AI tool calling, embeddings, vector databases, and intelligent conversational systems.
+
+Skilled in building maintainable, secure, and scalable applications, with an interest in cloud infrastructure, containerization, and CI/CD automation using Docker, Linux, GitHub Actions, AWS, and Azure.
+
+Passionate about combining mobile engineering, backend architecture, and AI technologies to build intelligent, reliable, and user-focused software solutions.
 
 ---
 
@@ -67,6 +73,24 @@ Experienced in Clean Architecture, SOLID principles, scalable application design
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+### 🤖 AI & LLM Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A9396?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-5B5BD6?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-4285F4?style=for-the-badge)
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- AI Tool Calling & Function Calling
+- Embeddings & Semantic Search
+- Vector Databases
+- AI-powered Chatbots & Conversational Systems
+- LLM Integration & Streaming Responses
 ### 🧪 Testing & Development Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
